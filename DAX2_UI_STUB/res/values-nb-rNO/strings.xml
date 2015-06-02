@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013-2014 Dolby Laboratories
+
+     This program is protected under international and U.S. copyright laws as
+     an unpublished work. This program is confidential and proprietary to the
+     copyright owners. Reproduction or disclosure, in whole or in part, or the
+     production of derivative works therefrom without the express permission of
+     the copyright owners is prohibited.
+
+                   Copyright (C) 2013-2014 by Dolby Laboratories,
+                               All rights reserved.
+-->
+
+<resources>
+	<string name="intelligent_equalizer">Intelligent equalizer</string>
+	<string name="surround_virtualizer">Surround-virtualiserer</string>
+	<string name="dialogue_enhancer">Dialogforbedrer</string>
+	<string name="volume_leveler">Volumutjevner</string>
+	<string name="copyright">Dolby og det doble D-symbolet er registrerte varemerker tilhørende Dolby Laboratories. \u00a9 2014 Dolby Laboratories Med enerett.</string>
+	<string name="movie">Film</string>
+	<string name="music">Musikk</string>
+	<string name="game">Spill</string>
+	<string name="voice">Tale</string>
+	<string name="preset_1">Tilpasset 1</string>
+	<string name="preset_2">Tilpasset 2</string>
+	<string name="open">Åpen</string>
+	<string name="rich">Fyldig</string>
+	<string name="focused">Fokusert</string>
+	<string name="off">AV</string>
+	<string name="custom">Manuell</string>
+	<string name="db36">36dB</string>
+	<string name="db24">24dB</string>
+	<string name="db12">12dB</string>
+	<string name="db0">0dB</string>
+	<string name="dbn12">-12dB</string>
+	<string name="graphical_equalizer">Grafisk equalizer</string>
+	<string name="app_name">Dolby</string>
+	<string name="instore_menu_text">Spill av demo</string>
+	<string name="explore_dolby_atmos">Utforsk Dolby Atmos</string>
+	<string name="dolby_explore_atmos_remark">Dolby Atmos skaper en fantastisk mobil hodetelefonopplevelse med multidimensjonal lyd som flyter over og rundt deg.</string>
+	<string name="dolby_explore_atmos_learn_more">Lær mer</string>
+	<string name="experience_dolby_enhanced_apps">Opplev Dolby-forsterkede apper</string>
+	<string name="experience_dolby_remark">La deg omringe av applikasjoner og spill som utnytter Dolby Audio. Du blir trukket dypere inn i opplevelsen med klarere dialog og balanserte volumnivåer, enten du bruker hodetelefoner eller innebygde høyttalere.</string>
+	<string name="access_dolby_enhanced_app">Få tilgang til Dolby-forsterkede apper nå!</string>
+	<string name="dolby_atmos_logo_mark">®</string>
+</resources>

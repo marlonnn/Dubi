@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013-2014 Dolby Laboratories
+
+     This program is protected under international and U.S. copyright laws as
+     an unpublished work. This program is confidential and proprietary to the
+     copyright owners. Reproduction or disclosure, in whole or in part, or the
+     production of derivative works therefrom without the express permission of
+     the copyright owners is prohibited.
+
+                   Copyright (C) 2013-2014 by Dolby Laboratories,
+                               All rights reserved.
+-->
+
+<resources>
+	<string name="intelligent_equalizer">ตัวปรับแต่งเสียงอัจฉริยะ</string>
+	<string name="surround_virtualizer">ตัวจำลองเสียงรอบทิศทาง</string>
+	<string name="dialogue_enhancer">ตัวเพิ่มความชัดเสียงสนทนา</string>
+	<string name="volume_leveler">ตัวปรับระดับเสียง</string>
+	<string name="copyright">Dolby และสัญลักษณ์ตัว D สองตัวเป็นเครื่องหมายการค้าจดทะเบียนของ Dolby Laboratories \u00a9 2014 Dolby Laboratories สงวนสิทธิ์ทุกประการ</string>
+	<string name="movie">ภาพยนตร์</string>
+	<string name="music">ดนตรี</string>
+	<string name="game">เกม</string>
+	<string name="voice">เสียง</string>
+	<string name="preset_1">กำหนดเอง 1</string>
+	<string name="preset_2">กำหนดเอง 2</string>
+	<string name="open">เปิดโล่ง</string>
+	<string name="rich">เต็ม</string>
+	<string name="focused">เน้นความถี่</string>
+	<string name="off">ปิด</string>
+	<string name="custom">ปรับเอง</string>
+	<string name="db36">36dB</string>
+	<string name="db24">24dB</string>
+	<string name="db12">12dB</string>
+	<string name="db0">0dB</string>
+	<string name="dbn12">-12dB</string>
+	<string name="graphical_equalizer">ตัวปรับแต่งเสียงกราฟิก</string>
+	<string name="app_name">Dolby</string>
+	<string name="instore_menu_text">เล่นการสาธิต</string>
+	<string name="explore_dolby_atmos">สำรวจ Dolby Atmos</string>
+	<string name="dolby_explore_atmos_remark">Dolby Atmos มอบประสบการณ์ที่ยอดเยี่ยมจากหูฟังด้วยเสียงรอบทิศทางทั้งเหนือศีรษะและรอบตัวคุณ</string>
+	<string name="dolby_explore_atmos_learn_more">เรียนรู้เพิ่มเติม</string>
+	<string name="experience_dolby_enhanced_apps">สัมผัสประสบการณ์จากแอพพ์เหนือระดับจาก Dolby</string>
+	<string name="experience_dolby_remark">ด้วยประสิทธิภาพของ Dolby Audio คุณจะเพลิดเพลินกับแอปพลิเคชันและเกม ไม่ว่าคุณจะใช้หูฟังหรือลำโพงในตัว เสียงสนทนาจะชัดเจนขึ้นและระดับเสียงจะได้สมดุลพอดี ให้คุณสัมผัสประสบการณ์ได้ลึกล้ำยิ่งขึ้น</string>
+	<string name="access_dolby_enhanced_app">เข้าใช้แอพพ์เหนือระดับของ Dolby!</string>
+	<string name="dolby_atmos_logo_mark">®</string>
+</resources>

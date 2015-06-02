@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013-2014 Dolby Laboratories
+
+     This program is protected under international and U.S. copyright laws as
+     an unpublished work. This program is confidential and proprietary to the
+     copyright owners. Reproduction or disclosure, in whole or in part, or the
+     production of derivative works therefrom without the express permission of
+     the copyright owners is prohibited.
+
+                   Copyright (C) 2013-2014 by Dolby Laboratories,
+                               All rights reserved.
+-->
+
+<resources>
+	<string name="tooltip_eq_title">インテリジェントイコライザー/グラフィックイコライザー</string>
+	<string name="tooltip_eq_text">インテリジェントイコライザーは、再生中の音をリアルタイムに解析し、設定されたお好みの音質になるよう自動調整します。表示されている 4 つのプリセットの中から選択し、スペクトルビジュアライザーをタッチすることでグラフィックイコライザーをカスタマイズすることも可能です。</string>
+	<string name="tooltip_sv_title">サラウンドバーチャライザ</string>
+	<string name="tooltip_sv_text">サラウンドバーチャライザーは、ヘッドフォンやステレオスピーカーから出力される音声をリアルなサラウンドサウンドに拡張します。スイッチをオンまたはオフに設定してサラウンドサウンド効果を制御できます。</string>
+	<string name="tooltip_de_title">ダイアログエンハンサー</string>
+	<string name="tooltip_de_text">ダイアログエンハンサーは、コンテンツに含まれる会話音声を明瞭にします。スイッチをオンまたはオフに設定してダイアログエンハンサーを制御できます。</string>
+	<string name="tooltip_vl_title">ボリュームレベラー</string>
+	<string name="tooltip_vl_text">ボリュームレベラーは、デバイスのマスターボリュームレベルを基準にしてコンテンツおよびアプリケーションの音量を一定に整えます。スイッチをオンまたはオフに設定して音声レベルの自動調整機能を制御できます。</string>
+</resources>

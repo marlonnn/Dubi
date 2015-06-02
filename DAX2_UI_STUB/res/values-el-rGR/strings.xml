@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013-2014 Dolby Laboratories
+
+     This program is protected under international and U.S. copyright laws as
+     an unpublished work. This program is confidential and proprietary to the
+     copyright owners. Reproduction or disclosure, in whole or in part, or the
+     production of derivative works therefrom without the express permission of
+     the copyright owners is prohibited.
+
+                   Copyright (C) 2013-2014 by Dolby Laboratories,
+                               All rights reserved.
+-->
+
+<resources>
+	<string name="intelligent_equalizer">Έξυπνος Iσοσταθμιστής</string>
+	<string name="surround_virtualizer">Εικονικό Surround</string>
+	<string name="dialogue_enhancer">Ενισχυτής Διαλόγου</string>
+	<string name="volume_leveler">Σταθμιστής Έντασης</string>
+	<string name="copyright">Η ονομασία Dolby και το σύμβολο με το διπλό D αποτελούν εμπορικά σήματα κατατεθέντα της Dolby Laboratories. \u00a9 2014 Dolby Laboratories Με την επιφύλαξη παντός δικαιώματος.</string>
+	<string name="movie">Ταινία</string>
+	<string name="music">Μουσική</string>
+	<string name="game">Παιχνίδι</string>
+	<string name="voice">Φωνή</string>
+	<string name="preset_1">Προσαρμογή 1</string>
+	<string name="preset_2">Προσαρμογή 2</string>
+	<string name="open">Ανοικτός</string>
+	<string name="rich">Πλούσιος</string>
+	<string name="focused">Εστιασμένος</string>
+	<string name="off">OFF</string>
+	<string name="custom">Με το χέρι</string>
+	<string name="db36">36dB</string>
+	<string name="db24">24dB</string>
+	<string name="db12">12dB</string>
+	<string name="db0">0dB</string>
+	<string name="dbn12">-12dB</string>
+	<string name="graphical_equalizer">Γραφικός Iσοσταθμιστής</string>
+	<string name="app_name">Dolby</string>
+	<string name="instore_menu_text">Δείτε Επίδειξη</string>
+	<string name="explore_dolby_atmos">Εξερευνήστε το Dolby Atmos</string>
+	<string name="dolby_explore_atmos_remark">Το Dolby Atmos δημιουργεί μια καταπληκτική εμπειρία για τα ακουστικά του κινητού σας, με πολυδιάστατο ήχο που κυλάει από πάνω και από γύρω σας.</string>
+	<string name="dolby_explore_atmos_learn_more">Μάθετε περισσότερα</string>
+	<string name="experience_dolby_enhanced_apps">Ζήστε την εμπειρία των εφαρμογών ενισχυμένου Dolby</string>
+	<string name="experience_dolby_remark">Απολαύστε εφαρμογές και παιχνίδια που επωφελούνται από το Dolby Audio. Είτε χρησιμοποιείτε ακουστικά είτε ενσωματωμένα ηχεία, οι διάλογοι ακούγονται πιο καθαρά και οι στάθμες ήχου είναι πιο ισοσταθμισμένες, δίνοντάς σας μια βαθύτερη εμπειρία.</string>
+	<string name="access_dolby_enhanced_app">Προσπελάστε τις εφαρμογές ενισχυμένου Dolby τώρα!</string>
+	<string name="dolby_atmos_logo_mark">®</string>
+</resources>

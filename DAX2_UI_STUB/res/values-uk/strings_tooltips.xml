@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013-2015 Dolby Laboratories
+
+     This program is protected under international and U.S. copyright laws as
+     an unpublished work. This program is confidential and proprietary to the
+     copyright owners. Reproduction or disclosure, in whole or in part, or the
+     production of derivative works therefrom without the express permission of
+     the copyright owners is prohibited.
+
+                   Copyright (C) 2013-2015 by Dolby Laboratories,
+                               All rights reserved.
+-->
+
+<resources>
+	<string name="tooltip_eq_title">Інтелектуальний еквалайзер/Графічний еквалайзер</string>
+	<string name="tooltip_eq_text">Функція інтелектуального еквалайзера аналізує й динамічно регулює параметри звуку для досягнення бажаного тону.  Виберіть один із чотирьох запропонованих пресетів, а потім за допомогою візуалізатора спектра внесіть потрібні зміни до графічного еквалайзера.</string>
+	<string name="tooltip_sv_title">Віртуальний об\'ємний звук</string>
+	<string name="tooltip_sv_text">Функція віртуального об\'ємного звуку створює реалістичне об\'ємне звучання в будь-яких навушниках або стереоколонках.  Щоб керувати функцією об\'ємного звуку, використовуйте перемикач.</string>
+	<string name="tooltip_de_title">Поліпшення звучання діалогів</string>
+	<string name="tooltip_de_text">Функція поліпшення звучання діалогів підвищує чіткість мовлення в разі відтворення з будь-яких медіа. Щоб керувати функцією поліпшення звучання діалогів, використовуйте перемикач.</string>
+	<string name="tooltip_vl_title">Автогучність</string>
+	<string name="tooltip_vl_text">Функція автогучності забезпечує стабільну гучність у всіх програмах і під час відтворення будь-яких різновидів вмісту на основі загального рівня гучності, вибраного на пристрої. Щоб керувати функцією автогучності, використовуйте перемикач.</string>
+</resources>

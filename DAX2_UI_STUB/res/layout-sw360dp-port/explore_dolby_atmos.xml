@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 Dolby Laboratories
+
+     This program is protected under international and U.S. copyright laws as
+     an unpublished work. This program is confidential and proprietary to the
+     copyright owners. Reproduction or disclosure, in whole or in part, or the
+     production of derivative works therefrom without the express permission of
+     the copyright owners is prohibited.
+
+                   Copyright (C) 2014 by Dolby Laboratories,
+                               All rights reserved.
+-->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:layout_gravity="top">
+	
+    <ImageView
+		android:id="@+id/upimg"
+		android:layout_width="wrap_content"
+		android:layout_height="420sp"
+		android:src="@drawable/bg_dolby_atmos"
+		android:scaleType="centerCrop"
+		android:layout_gravity="left|top">
+	</ImageView>
+	<ImageView
+		android:id="@+id/downimg"
+		android:layout_width="wrap_content"
+		android:layout_height="420sp"
+		android:layout_marginTop="420sp"
+		android:src="@drawable/bg_dolby_app" 
+		android:scaleType="centerCrop"
+		android:layout_gravity="left|top">
+	</ImageView>
+	<ImageView
+		android:id="@+id/btncontrolImg"
+		android:layout_width="48sp"
+		android:layout_height="48sp"
+		android:layout_marginBottom="74sp"
+		android:layout_marginRight="24sp"
+		android:scaleType="centerCrop"
+		android:src="@drawable/btn_scrollup"
+		android:layout_gravity="right|bottom">
+	</ImageView>
+
+	<LinearLayout
+		android:id="@+id/exploreatmoslogo"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="top"
+		android:orientation="horizontal"
+		android:layout_marginLeft="24sp"
+		android:layout_marginTop="190sp" >
+		<TextView
+			android:id="@+id/txtupdolbyname"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/dolby_atmos_mark"
+			android:singleLine="true"
+			android:textAppearance="@style/ExploreAtmosLogoForMobile"
+			android:layout_gravity="top" >
+		</TextView>
+		<TextView
+			android:id="@+id/txtupdolbylogomark"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/dolby_atmos_logo_mark"
+			android:singleLine="true"
+			android:textAppearance="@style/TextAppearanceSmall"
+			android:layout_gravity="bottom"
+			android:layout_marginBottom="5sp">
+		</TextView>
+	</LinearLayout>
+	<TextView
+		android:id="@+id/txtupremark"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="24sp"
+		android:layout_marginTop="245sp"
+		android:text="@string/dolby_explore_atmos_remark"
+		android:textScaleX="0.9"
+		android:lineSpacingMultiplier="0.9"
+		android:singleLine="false"
+		android:maxWidth="295sp"
+		android:textAppearance="@style/ExploreAtmosRemarkP"
+		android:layout_gravity="top">
+	</TextView>
+	<LinearLayout
+		android:id="@+id/exploreatmoslearnmore"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="top"
+		android:orientation="horizontal"
+		android:layout_marginLeft="24sp"
+		android:layout_marginTop="335sp">
+		<TextView
+			android:id="@+id/txtuplearnmore"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/dolby_explore_atmos_learn_more"
+			android:singleLine="true"
+			android:textAppearance="@style/ExploreAtmosLearnMore"
+			android:layout_gravity="center">
+		</TextView>
+		<ImageView
+			android:id="@+id/btnupgotodolbyatmos"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentRight="true"
+			android:src="@drawable/btn_goto"
+			android:layout_gravity="left">
+		</ImageView>
+	</LinearLayout>
+	<TextView
+		android:id="@+id/txtdownname"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="24sp"
+		android:layout_marginTop="435sp"
+		android:text="@string/experience_dolby_enhanced_apps"
+		android:maxWidth="250sp"
+		android:textAppearance="@style/ExploreAtmosLogoForMobile"
+		android:layout_gravity="left">
+	</TextView>
+	<TextView
+		android:id="@+id/txtdownremark"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="24sp"
+		android:layout_marginTop="325sp"
+		android:layout_alignParentRight="true"
+		android:text="@string/experience_dolby_remark"
+		android:textScaleX="0.9"
+		android:lineSpacingMultiplier="0.9"
+		android:singleLine="false"
+		android:maxWidth="295sp"
+		android:textAppearance="@style/ExperienceDolbyRemarkP"
+		android:layout_gravity="left">
+	</TextView>
+
+	<LinearLayout
+	    android:id="@+id/exploreatmosaccess"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="left"
+	    android:layout_marginLeft="24sp"
+	    android:layout_marginTop="445sp"
+	    android:orientation="horizontal" >
+
+		<TextView
+			android:id="@+id/txtdownaccess"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentRight="true"
+			android:text="@string/access_dolby_enhanced_app"
+			android:singleLine="true"
+			android:textScaleX="0.7"
+			android:textAppearance="@style/ExploreAtmosLearnMore"
+			android:layout_gravity="center"
+			android:gravity="left">
+		</TextView>
+		<ImageView
+			android:id="@+id/btndowngotoaccess"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentRight="true"
+			android:src="@drawable/btn_goto"
+			android:layout_gravity="left">
+		</ImageView>
+	</LinearLayout>
+
+</FrameLayout>

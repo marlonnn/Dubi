@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013-2014 Dolby Laboratories
+
+     This program is protected under international and U.S. copyright laws as
+     an unpublished work. This program is confidential and proprietary to the
+     copyright owners. Reproduction or disclosure, in whole or in part, or the
+     production of derivative works therefrom without the express permission of
+     the copyright owners is prohibited.
+
+                   Copyright (C) 2013-2014 by Dolby Laboratories,
+                               All rights reserved.
+-->
+
+<resources>
+	<string name="intelligent_equalizer">אקוולייזר חכם</string>
+	<string name="surround_virtualizer">מדמה צליל היקפי</string>
+	<string name="dialogue_enhancer">משפר הדיאלוגים</string>
+	<string name="volume_leveler">מאזן עצמת השמע</string>
+	<string name="copyright">Dolby וסמל ה-Double-D הם סימני מסחר רשומים של מעבדות Dolby‏. ‎\u00a9 2014 Dolby Laboratories‎ כל הזכויות שמורות.</string>
+	<string name="movie">סרט</string>
+	<string name="music">מוזיקה</string>
+	<string name="game">משחק</string>
+	<string name="voice">קול</string>
+	<string name="preset_1">מותאם-אישית 1</string>
+	<string name="preset_2">מותאם-אישית 2</string>
+	<string name="open">פתוח</string>
+	<string name="rich">עשיר</string>
+	<string name="focused">ממוקד</string>
+	<string name="off">כבוי</string>
+	<string name="custom">ידני</string>
+	<string name="db36">36dB‏</string>
+	<string name="db24">24dB‏</string>
+	<string name="db12">12dB‏</string>
+	<string name="db0">0dB‏</string>
+	<string name="dbn12">‎-12dB‏</string>
+	<string name="graphical_equalizer">אקוולייזר גרפי</string>
+	<string name="app_name">Dolby</string>
+	<string name="instore_menu_text">הפעל הדגמה</string>
+	<string name="explore_dolby_atmos">גלה את Dolby Atmos</string>
+	<string name="dolby_explore_atmos_remark">טכנולוגיית Dolby Atmos יוצרת חווית שמע מדהימה על גבי אוזניות עם צליל רב-מימד שזורם מסביבך ומעליך.</string>
+	<string name="dolby_explore_atmos_learn_more">למידע נוסף</string>
+	<string name="experience_dolby_enhanced_apps">חווה יישומים משופרים עם Dolby</string>
+	<string name="experience_dolby_remark">עטוף את עצמך ביישומים ומשחקים הממנפים את Dolby Audio. בין אם אתה משתמש באוזניות או ברמקולים המובנים, הדיאלוג ברור יותר ועוצמות הקול מאוזנות היטב, כך שנוצרת חוויה עמוקה יותר.</string>
+	<string name="access_dolby_enhanced_app">קבל עכשיו גישה ליישומים משופרים עם Dolby!</string>
+	<string name="dolby_atmos_logo_mark">®</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013-2014 Dolby Laboratories
+
+     This program is protected under international and U.S. copyright laws as
+     an unpublished work. This program is confidential and proprietary to the
+     copyright owners. Reproduction or disclosure, in whole or in part, or the
+     production of derivative works therefrom without the express permission of
+     the copyright owners is prohibited.
+
+                   Copyright (C) 2013-2014 by Dolby Laboratories,
+                               All rights reserved.
+-->
+
+<resources>
+	<string name="intelligent_equalizer">Смарт-эквалайзер</string>
+	<string name="surround_virtualizer">Вирт. объемный звук</string>
+	<string name="dialogue_enhancer">Коррекция речи</string>
+	<string name="volume_leveler">Автогромкость</string>
+	<string name="copyright">Dolby и эмблема в виде двойной буквы D являются зарегистрированными товарными знаками компании Dolby Laboratories. \u00a9 Dolby Laboratories, 2014. Все права защищены.</string>
+	<string name="movie">Фильмы</string>
+	<string name="music">Музыка</string>
+	<string name="game">Игры</string>
+	<string name="voice">Голос</string>
+	<string name="preset_1">Настройка 1</string>
+	<string name="preset_2">Настройка 2</string>
+	<string name="open">Открытый</string>
+	<string name="rich">Насыщенный</string>
+	<string name="focused">Сфокусированный</string>
+	<string name="off">ВЫКЛ.</string>
+	<string name="custom">Ручной</string>
+	<string name="db36">36 дБ</string>
+	<string name="db24">24 дБ</string>
+	<string name="db12">12 дБ</string>
+	<string name="db0">0 дБ</string>
+	<string name="dbn12">-12 дБ</string>
+	<string name="graphical_equalizer">Графический эквалайзер</string>
+	<string name="app_name">Dolby</string>
+	<string name="instore_menu_text">Демо-ролик</string>
+	<string name="explore_dolby_atmos">Ознакомиться с Dolby Atmos</string>
+	<string name="dolby_explore_atmos_remark">Даже в обычных наушниках мобильного устройства технология Dolby Atmos создает впечатляющий звуковой образ, окружающий вас не только со всех сторон, но и сверху.</string>
+	<string name="dolby_explore_atmos_learn_more">Подробнее</string>
+	<string name="experience_dolby_enhanced_apps">Программы с технологией Dolby</string>
+	<string name="experience_dolby_remark">Dolby Audio поможет вам полностью погрузиться в мир игр и других приложений. Что бы вы не использовали – наушники или встроенные динамики – более четкая речь и оптимальный баланс громкости убедят вас в полной реальности услышанного</string>
+	<string name="access_dolby_enhanced_app">Воспользуйтесь программами с технологией Dolby!</string>
+	<string name="dolby_atmos_logo_mark">®</string>
+</resources>

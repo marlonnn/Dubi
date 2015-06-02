@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013-2014 Dolby Laboratories
+
+     This program is protected under international and U.S. copyright laws as
+     an unpublished work. This program is confidential and proprietary to the
+     copyright owners. Reproduction or disclosure, in whole or in part, or the
+     production of derivative works therefrom without the express permission of
+     the copyright owners is prohibited.
+
+                   Copyright (C) 2013-2014 by Dolby Laboratories,
+                               All rights reserved.
+-->
+
+<resources>
+	<string name="intelligent_equalizer">인텔리전트 이퀄라이저</string>
+	<string name="surround_virtualizer">서라운드 버추얼라이저</string>
+	<string name="dialogue_enhancer">다이얼로그 인핸서</string>
+	<string name="volume_leveler">볼륨 레벨러</string>
+	<string name="copyright">Dolby 및 더블 D 심볼은 Dolby Laboratories의 등록 상표입니다. \u00a9 2014 Dolby Laboratories 모든 소유권 보유.</string>
+	<string name="movie">영화</string>
+	<string name="music">음악</string>
+	<string name="game">게임</string>
+	<string name="voice">음성</string>
+	<string name="preset_1">사용자 지정 1</string>
+	<string name="preset_2">사용자 지정 2</string>
+	<string name="open">개방</string>
+	<string name="rich">풍부</string>
+	<string name="focused">집중</string>
+	<string name="off">꺼짐</string>
+	<string name="custom">수동</string>
+	<string name="db36">36dB</string>
+	<string name="db24">24dB</string>
+	<string name="db12">12dB</string>
+	<string name="db0">0dB</string>
+	<string name="dbn12">-12dB</string>
+	<string name="graphical_equalizer">그래픽 이퀄라이저</string>
+	<string name="app_name">Dolby</string>
+	<string name="instore_menu_text">데모 재생</string>
+	<string name="explore_dolby_atmos">Dolby Atmos 탐색</string>
+	<string name="dolby_explore_atmos_remark">Dolby Atmos는 머리 위와 주변에서 들리는 다차원 사운드로 놀라운 모바일 헤드폰 경험을 선사합니다.</string>
+	<string name="dolby_explore_atmos_learn_more">자세히</string>
+	<string name="experience_dolby_enhanced_apps">Dolby 강화 앱을 경험하세요</string>
+	<string name="experience_dolby_remark">Dolby Audio를 활용하는 응용 프로그램과 게임에 빠져보십시오. 헤드폰을 사용하든 내장 스피커를 사용하든 더욱 선명하게 들리는 대화와 균형잡인 볼륨 조정으로 더욱 실감나게 즐기실 수 있습니다.</string>
+	<string name="access_dolby_enhanced_app">지금 Dolby 강화 앱에 액세스하세요!</string>
+	<string name="dolby_atmos_logo_mark">®</string>
+</resources>

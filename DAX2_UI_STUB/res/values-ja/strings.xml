@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013-2014 Dolby Laboratories
+
+     This program is protected under international and U.S. copyright laws as
+     an unpublished work. This program is confidential and proprietary to the
+     copyright owners. Reproduction or disclosure, in whole or in part, or the
+     production of derivative works therefrom without the express permission of
+     the copyright owners is prohibited.
+
+                   Copyright (C) 2013-2014 by Dolby Laboratories,
+                               All rights reserved.
+-->
+
+<resources>
+	<string name="intelligent_equalizer">インテリジェントイコライザー</string>
+	<string name="surround_virtualizer">サラウンドバーチャライザ</string>
+	<string name="dialogue_enhancer">ダイアログエンハンサー</string>
+	<string name="volume_leveler">ボリュームレベラー</string>
+	<string name="copyright">Dolby、ドルビー及びダブルD記号は Dolby Laboratories の登録商標です。\u00a9 2014 年 Dolby Laboratories。不許複製。</string>
+	<string name="movie">映画</string>
+	<string name="music">音楽</string>
+	<string name="game">ゲーム</string>
+	<string name="voice">ボイス</string>
+	<string name="preset_1">カスタム 1</string>
+	<string name="preset_2">カスタム 2</string>
+	<string name="open">オープン</string>
+	<string name="rich">リッチ</string>
+	<string name="focused">フォーカス</string>
+	<string name="off">オフ</string>
+	<string name="custom">マニュアル</string>
+	<string name="db36">36dB</string>
+	<string name="db24">24dB</string>
+	<string name="db12">12dB</string>
+	<string name="db0">0dB</string>
+	<string name="dbn12">-12dB</string>
+	<string name="graphical_equalizer">グラフィックイコライザー</string>
+	<string name="app_name">Dolby</string>
+	<string name="instore_menu_text">デモを再生</string>
+	<string name="explore_dolby_atmos">Dolby Atmos を探索</string>
+	<string name="dolby_explore_atmos_remark">Dolby Atmos は、あなたの周囲と頭上を流れる多次元サウンドで驚異のモバイルヘッドフォン体験を実現します。</string>
+	<string name="dolby_explore_atmos_learn_more">詳細</string>
+	<string name="experience_dolby_enhanced_apps">Dolby エンハンスアプリを体験</string>
+	<string name="experience_dolby_remark">Dolby Audio を使ったアプリケーションやゲームで、目の前に広がる世界に没頭してください。ヘッドフォンでも内蔵スピーカーでも、会話がはっきり聞こえ、どんなコンテンツも均一な音量で再生し、あなたをさらに深い体験へと誘います。</string>
+	<string name="access_dolby_enhanced_app">今すぐ Dolby エンハンスアプリにアクセス!</string>
+	<string name="dolby_atmos_logo_mark">®</string>
+</resources>

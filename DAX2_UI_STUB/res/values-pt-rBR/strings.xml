@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013-2014 Dolby Laboratories
+
+     This program is protected under international and U.S. copyright laws as
+     an unpublished work. This program is confidential and proprietary to the
+     copyright owners. Reproduction or disclosure, in whole or in part, or the
+     production of derivative works therefrom without the express permission of
+     the copyright owners is prohibited.
+
+                   Copyright (C) 2013-2014 by Dolby Laboratories,
+                               All rights reserved.
+-->
+
+<resources>
+	<string name="intelligent_equalizer">Equalizador inteligente</string>
+	<string name="surround_virtualizer">Virtualizador de surround</string>
+	<string name="dialogue_enhancer">Aprimorador de diálogo</string>
+	<string name="volume_leveler">Nivelador de volume</string>
+	<string name="copyright">Dolby e o símbolo D duplo são marcas registradas da Dolby Laboratories. \u00a9 2014 Dolby Laboratories Todos os direitos reservados.</string>
+	<string name="movie">Filme</string>
+	<string name="music">Música</string>
+	<string name="game">Jogo</string>
+	<string name="voice">Voz</string>
+	<string name="preset_1">Personalizado 1</string>
+	<string name="preset_2">Personalizado 2</string>
+	<string name="open">Aberto</string>
+	<string name="rich">Profundo</string>
+	<string name="focused">Focado</string>
+	<string name="off">DESLIGADO</string>
+	<string name="custom">Manual</string>
+	<string name="db36">36 dB</string>
+	<string name="db24">24 dB</string>
+	<string name="db12">12 dB</string>
+	<string name="db0">0 dB</string>
+	<string name="dbn12">-12 dB</string>
+	<string name="graphical_equalizer">Equalizador gráfico</string>
+	<string name="app_name">Dolby</string>
+	<string name="instore_menu_text">Reproduzir demonstração</string>
+	<string name="explore_dolby_atmos">Explore o Dolby Atmos</string>
+	<string name="dolby_explore_atmos_remark">O Dolby Atmos cria uma experiência incrível de fones de ouvido com som multidimensional que flui em todas direções, tanto acima quanto à sua volta.</string>
+	<string name="dolby_explore_atmos_learn_more">Saiba mais</string>
+	<string name="experience_dolby_enhanced_apps">Experimente apps aprimorados pela Dolby</string>
+	<string name="experience_dolby_remark">Mergulhe em aplicativos e jogos que usam o Dolby Audio. Tanto usando fones de ouvido quanto alto-falantes integrados, seu diálogo é mais claro e os níveis de volume são bem equilibrados, envolvendo você ainda mais na experiência.</string>
+	<string name="access_dolby_enhanced_app">Acesse agora mesmo os apps aprimorados pela Dolby!</string>
+	<string name="dolby_atmos_logo_mark">®</string>
+</resources>

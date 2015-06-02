@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013-2014 Dolby Laboratories
+
+     This program is protected under international and U.S. copyright laws as
+     an unpublished work. This program is confidential and proprietary to the
+     copyright owners. Reproduction or disclosure, in whole or in part, or the
+     production of derivative works therefrom without the express permission of
+     the copyright owners is prohibited.
+
+                   Copyright (C) 2013-2014 by Dolby Laboratories,
+                               All rights reserved.
+-->
+
+<resources>
+	<string name="intelligent_equalizer">Intelligens hangszínszabályzó</string>
+	<string name="surround_virtualizer">Térhatású virtualizáló</string>
+	<string name="dialogue_enhancer">Párbeszéd-kiemelő</string>
+	<string name="volume_leveler">Hangerő-kiegyenlítő</string>
+	<string name="copyright">A Dolby és a dupla D szimbólum a Dolby Laboratories bejegyzett védjegyei. \u00a9 2014 Dolby Laboratories Minden jog fenntartva.</string>
+	<string name="movie">Film</string>
+	<string name="music">Zene</string>
+	<string name="game">Játék</string>
+	<string name="voice">Hang</string>
+	<string name="preset_1">1. egyedi</string>
+	<string name="preset_2">2. egyedi</string>
+	<string name="open">Nyílt</string>
+	<string name="rich">Gazdag</string>
+	<string name="focused">Fókuszált</string>
+	<string name="off">KI</string>
+	<string name="custom">Kézi</string>
+	<string name="db36">36dB</string>
+	<string name="db24">24dB</string>
+	<string name="db12">12dB</string>
+	<string name="db0">0dB</string>
+	<string name="dbn12">-12dB</string>
+	<string name="graphical_equalizer">Grafikus hangszínszabályzó</string>
+	<string name="app_name">Dolby</string>
+	<string name="instore_menu_text">Demo lejátszása</string>
+	<string name="explore_dolby_atmos">Fedezze fel a Dolby Atmos-t</string>
+	<string name="dolby_explore_atmos_remark">A Dolby Atmos csodálatos élményt hoz létre a mobil fejhallgatóval, többdimenziós hangzás áramlik a hallgató körül és felett.</string>
+	<string name="dolby_explore_atmos_learn_more">További információ</string>
+	<string name="experience_dolby_enhanced_apps">Próbája ki a Dolby továbfejlesztett alkalmazásait</string>
+	<string name="experience_dolby_remark">Merüljön el a Dolby Audio-t hasznosító alkalmazások és játékok világában. Akár fejhallgatót, akár beépített hangszórót használ, a párbeszéd tisztább, a hangerő kiegyensúlyozottabb lesz, egyre gazdagabb élmények várják.</string>
+	<string name="access_dolby_enhanced_app">Nyissa meg a Dolby továbbfejlesztett alkalmazásait most!</string>
+	<string name="dolby_atmos_logo_mark">®</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013-2014 Dolby Laboratories
+
+     This program is protected under international and U.S. copyright laws as
+     an unpublished work. This program is confidential and proprietary to the
+     copyright owners. Reproduction or disclosure, in whole or in part, or the
+     production of derivative works therefrom without the express permission of
+     the copyright owners is prohibited.
+
+                   Copyright (C) 2013-2014 by Dolby Laboratories,
+                               All rights reserved.
+-->
+
+<resources>
+	<string name="intelligent_equalizer">Intelligentne ekvalaiser</string>
+	<string name="surround_virtualizer">Ruumilise heli virtualiseerija</string>
+	<string name="dialogue_enhancer">Dialoogi täiustaja</string>
+	<string name="volume_leveler">Helitugevuse nivellija</string>
+	<string name="copyright">Dolby ja kaksik-D sümbol on Dolby Laboratories registreeritud kaubamärgid. \u00a9 2014 Dolby Laboratories Kõik õigused tagatud.</string>
+	<string name="movie">Film</string>
+	<string name="music">Muusika</string>
+	<string name="game">Mäng</string>
+	<string name="voice">Hääl</string>
+	<string name="preset_1">Kohandatud 1</string>
+	<string name="preset_2">Kohandatud 2</string>
+	<string name="open">Avatud</string>
+	<string name="rich">Külluslik</string>
+	<string name="focused">Fokuseeritud</string>
+	<string name="off">VÄLJAS</string>
+	<string name="custom">Käsitsi</string>
+	<string name="db36">36dB</string>
+	<string name="db24">24dB</string>
+	<string name="db12">12dB</string>
+	<string name="db0">0dB</string>
+	<string name="dbn12">-12dB</string>
+	<string name="graphical_equalizer">Graafiline ekvalaiser</string>
+	<string name="app_name">Dolby</string>
+	<string name="instore_menu_text">Esita demo</string>
+	<string name="explore_dolby_atmos">Uurige Dolby Atmost</string>
+	<string name="dolby_explore_atmos_remark">Dolby Atmos loob imelise mobiilse kõrvaklapielamuse mitmemõõtmelise heliga, mis voolab teie kohal ja ümber.</string>
+	<string name="dolby_explore_atmos_learn_more">Lisateave</string>
+	<string name="experience_dolby_enhanced_apps">Nautige Dolby täiustatud rakendusi</string>
+	<string name="experience_dolby_remark">Sukelduge Dolby Audiot kasutavatesse rakendustesse ja mängudesse. Nii kõrvaklappe kui sisseehitatud kõlareid kasutades on dialoog selgem ja helitugevused on hästi tasakaalustatud, tõmmates teid sügavamale elamusse.</string>
+	<string name="access_dolby_enhanced_app">Kasutage kohe Dolby täiustatud rakendusi!</string>
+	<string name="dolby_atmos_logo_mark">®</string>
+</resources>

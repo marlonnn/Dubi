@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013-2014 Dolby Laboratories
+
+     This program is protected under international and U.S. copyright laws as
+     an unpublished work. This program is confidential and proprietary to the
+     copyright owners. Reproduction or disclosure, in whole or in part, or the
+     production of derivative works therefrom without the express permission of
+     the copyright owners is prohibited.
+
+                   Copyright (C) 2013-2014 by Dolby Laboratories,
+                               All rights reserved.
+-->
+
+<resources>
+	<string name="intelligent_equalizer">Pametni ekvilizator</string>
+	<string name="surround_virtualizer">Surround virtualizator</string>
+	<string name="dialogue_enhancer">Optimizator dijaloga</string>
+	<string name="volume_leveler">Nivelator glasnoće</string>
+	<string name="copyright">Dolby i simbol duplog D su registrirani zaštitni znaci tvrtke Dolby Laboratories. \u00a9 2014 Dolby Laboratories Sva prava pridržana.</string>
+	<string name="movie">Film</string>
+	<string name="music">Glazba</string>
+	<string name="game">Igrice</string>
+	<string name="voice">Glas</string>
+	<string name="preset_1">Prilagođeno 1</string>
+	<string name="preset_2">Prilagođeno 2</string>
+	<string name="open">Otvoren</string>
+	<string name="rich">Bogato</string>
+	<string name="focused">Fokusirano</string>
+	<string name="off">ISKLJ</string>
+	<string name="custom">Ručno</string>
+	<string name="db36">36dB</string>
+	<string name="db24">24dB</string>
+	<string name="db12">12dB</string>
+	<string name="db0">0dB</string>
+	<string name="dbn12">-12dB</string>
+	<string name="graphical_equalizer">Grafički ekvilizator</string>
+	<string name="app_name">Dolby</string>
+	<string name="instore_menu_text">Reproduciraj demo</string>
+	<string name="explore_dolby_atmos">Istražite Dolby Atmos</string>
+	<string name="dolby_explore_atmos_remark">Dolby Atmos stvara zadivljujuće iskustvo mobilnih slušalica pomoću višedimenzionalnog zvuka koji protiče iznad i oko vas.</string>
+	<string name="dolby_explore_atmos_learn_more">Saznajte više</string>
+	<string name="experience_dolby_enhanced_apps">Iskustvo Dolby poboljšanih apliklacija</string>
+	<string name="experience_dolby_remark">Uronite u aplikacije i igrice uz moćni Dolby Audio. Bez obzira da li koristite slušalice ili ugrađene zvučnike, dijalog je čišći i razine glasnoće su dobro uravnotežene, povlačeći vas dublje u iskustvo.</string>
+	<string name="access_dolby_enhanced_app">Pristupite sada Dolby poboljšanim aplikacijama!</string>
+	<string name="dolby_atmos_logo_mark">®</string>
+</resources>
